@@ -17,6 +17,6 @@ def list_dwarves(array)
     index += 1
     binding.pry
     puts "#{index}. #{dwarve}"
-    
+
   end
 end

@@ -16,4 +16,5 @@ def list_dwarves(array)
     index += 1
     puts "#{index}. #{dwarve}"
   end
+  list_dwarves(array)
 end
